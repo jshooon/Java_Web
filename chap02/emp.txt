@@ -1,0 +1,8 @@
+11|Smith|010-1234-5345|Smith@daum.com
+12|patty|010-1351-2233|patty@aaaaa.com
+13|Lia|010-3456-1234|Lia@naver.com
+14|Jin|010-1861-2222|Jin@avsd.com
+15|Lora|010-3863-1234|Lora@nbs.com
+16|King|010-1334-2342|King@aaaaa.com
+17|Harim|010-4008-8731|Harim.gmail.com
+18|Koon|010-6423-8874|Koon@gmail.com
