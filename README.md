@@ -1,5 +1,9 @@
 # Java_Web 정규수업
 
+Langguages : Java, HTML, CSS, JS    
+Database : MySQL   
+Tools : Eclipse, MySQL Workbench
+
 * chap00 : 기본 HTML틀, Servlet   
 * chap01 : 구구단앱 만들기   
 * chap02 : Emp(Controller, dao, vo, service 사용), 추가, 삭제, 상세정보, 수정 기능 만들기   
