@@ -1,6 +1,6 @@
 # Java_Web 정규수업
 
-Langguages : Java, HTML, CSS, JS    
+Languages : Java, HTML, CSS, JS    
 Database : MySQL   
 Tools : Eclipse, MySQL Workbench
 
