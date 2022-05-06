@@ -5,8 +5,8 @@ Database : MySQL
 Tools : Eclipse, MySQL Workbench
 
 * chap00   
- 1. 기본 HTML틀   
- 2. Servlet사용
+  * 기본 HTML틀   
+  * Servlet사용
 * chap01 : 구구단앱 만들기   
 * chap02 : Emp(Controller, dao, vo, service 사용) CRUD 기능 만들기   
 * chap03 : LoginForm(Servlet, dao, vo, service 사용) 로그인 기능 만들기   
