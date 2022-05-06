@@ -4,7 +4,9 @@ Languages : Java, HTML, CSS, JS
 Database : MySQL   
 Tools : Eclipse, MySQL Workbench
 
-* chap00 : 기본 HTML틀, Servlet   
+* chap00   
+ 1. 기본 HTML틀   
+ 2. Servlet사용
 * chap01 : 구구단앱 만들기   
 * chap02 : Emp(Controller, dao, vo, service 사용), 추가, 삭제, 상세정보, 수정 기능 만들기   
 * chap03 : LoginForm(Servlet, dao, vo, service 사용) 로그인 기능 만들기   
