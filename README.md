@@ -1,6 +1,6 @@
 # Java_Web 정규수업
 
-OS : Windows 10
+OS : Windows 10   
 Languages : Java, HTML, CSS, JS    
 Database : MySQL   
 Tools : Eclipse, MySQL Workbench
